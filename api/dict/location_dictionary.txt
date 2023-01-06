@@ -1,0 +1,263 @@
+home --> location_name
+home --> location_type
+airfield --> place_category
+airplane cabin --> place_category
+airport terminal --> place_category
+alcove --> place_category
+alley --> place_category
+amphitheater --> place_category
+amusement arcade --> place_category
+amusement park --> place_category
+apartment building/outdoor --> place_category
+aquarium --> place_category
+aqueduct --> place_category
+arcade --> place_category
+arch --> place_category
+archive --> place_category
+arena/performance --> place_category
+arena/rodeo --> place_category
+art gallery --> place_category
+art school --> place_category
+artists loft --> place_category
+assembly line --> place_category
+atrium/public --> place_category
+attic --> place_category
+auditorium --> place_category
+auto showroom --> place_category
+badlands --> place_category
+bakery/shop --> place_category
+balcony/interior --> place_category
+ball pit --> place_category
+ballroom --> place_category
+bamboo forest --> place_category
+bank vault --> place_category
+banquet hall --> place_category
+bar --> place_category
+basement --> place_category
+bathroom --> place_category
+bazaar/indoor --> place_category
+bazaar/outdoor --> place_category
+beach --> place_category
+beach house --> place_category
+beauty salon --> place_category
+bedroom --> place_category
+beer garden --> place_category
+beer hall --> place_category
+berth --> place_category
+biology laboratory --> place_category
+boardwalk --> place_category
+boat deck --> place_category
+bookstore --> place_category
+booth/indoor --> place_category
+bow window/indoor --> place_category
+bowling alley --> place_category
+boxing ring --> place_category
+bridge --> place_category
+bullring --> place_category
+burial chamber --> place_category
+bus interior --> place_category
+bus station/indoor --> place_category
+butchers shop --> place_category
+cafeteria --> place_category
+campsite --> place_category
+campus --> place_category
+canal/urban --> place_category
+candy store --> place_category
+car interior --> place_category
+carrousel --> place_category
+catacomb --> place_category
+cemetery --> place_category
+chemistry lab --> place_category
+childs room --> place_category
+church/indoor --> place_category
+classroom --> place_category
+clean room --> place_category
+cliff --> place_category
+closet --> place_category
+clothing store --> place_category
+cockpit --> place_category
+coffee shop --> place_category
+computer room --> place_category
+conference center --> place_category
+conference room --> place_category
+construction site --> place_category
+corridor --> place_category
+courtyard --> place_category
+crevasse --> place_category
+crosswalk --> place_category
+dam --> place_category
+delicatessen --> place_category
+department store --> place_category
+desert road --> place_category
+desert/sand --> place_category
+dining room --> place_category
+discotheque --> place_category
+doorway/outdoor --> place_category
+dorm room --> place_category
+downtown --> place_category
+dressing room --> place_category
+driveway --> place_category
+drugstore --> place_category
+elevator lobby --> place_category
+elevator shaft --> place_category
+elevator/door --> place_category
+embassy --> place_category
+engine room --> place_category
+entrance hall --> place_category
+escalator/indoor --> place_category
+fabric store --> place_category
+fastfood restaurant --> place_category
+field road --> place_category
+fire escape --> place_category
+fire station --> place_category
+flea market/indoor --> place_category
+florist shop/indoor --> place_category
+food court --> place_category
+forest path --> place_category
+forest road --> place_category
+forest/broadleaf --> place_category
+fountain --> place_category
+galley --> place_category
+garage/indoor --> place_category
+garage/outdoor --> place_category
+gas station --> place_category
+golf course --> place_category
+greenhouse/indoor --> place_category
+greenhouse/outdoor --> place_category
+grotto --> place_category
+gymnasium/indoor --> place_category
+hangar/indoor --> place_category
+hangar/outdoor --> place_category
+hardware store --> place_category
+highway --> place_category
+home office --> place_category
+home theater --> place_category
+hospital --> place_category
+hospital room --> place_category
+hotel room --> place_category
+hotel/outdoor --> place_category
+ice cream parlor --> place_category
+ice floe --> place_category
+ice shelf --> place_category
+ice skating rink/outdoor --> place_category
+igloo --> place_category
+industrial area --> place_category
+islet --> place_category
+jacuzzi/indoor --> place_category
+jail cell --> place_category
+jewelry shop --> place_category
+junkyard --> place_category
+kasbah --> place_category
+kennel/outdoor --> place_category
+kindergarden classroom --> place_category
+kitchen --> place_category
+lagoon --> place_category
+landfill --> place_category
+landing deck --> place_category
+laundromat --> place_category
+lawn --> place_category
+lecture room --> place_category
+legislative chamber --> place_category
+library/indoor --> place_category
+living room --> place_category
+loading dock --> place_category
+lobby --> place_category
+lock chamber --> place_category
+locker room --> place_category
+manufactured home --> place_category
+market/indoor --> place_category
+martial arts gym --> place_category
+mausoleum --> place_category
+medina --> place_category
+mezzanine --> place_category
+mosque/outdoor --> place_category
+motel --> place_category
+movie theater/indoor --> place_category
+music studio --> place_category
+natural history museum --> place_category
+nursery --> place_category
+nursing home --> place_category
+oast house --> place_category
+office --> place_category
+office cubicles --> place_category
+operating room --> place_category
+orchard --> place_category
+orchestra pit --> place_category
+pantry --> place_category
+parking garage/indoor --> place_category
+parking garage/outdoor --> place_category
+parking lot --> place_category
+patio --> place_category
+pet shop --> place_category
+pharmacy --> place_category
+phone booth --> place_category
+physics laboratory --> place_category
+pizzeria --> place_category
+playground --> place_category
+playroom --> place_category
+porch --> place_category
+promenade --> place_category
+pub/indoor --> place_category
+racecourse --> place_category
+raceway --> place_category
+rainforest --> place_category
+reception --> place_category
+recreation room --> place_category
+repair shop --> place_category
+residential neighborhood --> place_category
+restaurant --> place_category
+restaurant kitchen --> place_category
+rice paddy --> place_category
+rock arch --> place_category
+roof garden --> place_category
+rope bridge --> place_category
+runway --> place_category
+sandbox --> place_category
+sauna --> place_category
+science museum --> place_category
+server room --> place_category
+shed --> place_category
+shoe shop --> place_category
+shopfront --> place_category
+shopping mall/indoor --> place_category
+shower --> place_category
+ski slope --> place_category
+sky --> place_category
+slum --> place_category
+snowfield --> place_category
+stable --> place_category
+stage/indoor --> place_category
+stage/outdoor --> place_category
+staircase --> place_category
+storage room --> place_category
+street --> place_category
+subway station/platform --> place_category
+supermarket --> place_category
+sushi bar --> place_category
+swimming pool/indoor --> place_category
+synagogue/outdoor --> place_category
+television room --> place_category
+television studio --> place_category
+throne room --> place_category
+ticket booth --> place_category
+toyshop --> place_category
+train interior --> place_category
+train station/platform --> place_category
+tree farm --> place_category
+tundra --> place_category
+underwater/ocean deep --> place_category
+utility room --> place_category
+veterinarians office --> place_category
+vineyard --> place_category
+volcano --> place_category
+volleyball court/outdoor --> place_category
+waiting room --> place_category
+water park --> place_category
+water tower --> place_category
+waterfall --> place_category
+wet bar --> place_category
+wheat field --> place_category
+wind farm --> place_category
+windmill --> place_category
+youth hostel --> place_category
+zen garden --> place_category
