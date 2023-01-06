@@ -25,14 +25,21 @@ dependencies:
   - elasticsearch-dsl
   - requests
   - tqdm
+  ## NLP
+  - nltk
+  - textblob
+  - openjdk # for stanfordnlp (time)
   ## Plot
   - matplotlib
   - tabulate
   ## Metric
   - opencv
   - pillow
-  ## SRL - text
+  ## utils
   - pandas
   - notebook
   - scikit-learn
-  - pandas
+  - pip 
+  pip:
+  - contractions
+  - sutime
